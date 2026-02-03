@@ -2,7 +2,7 @@
 
 ![AI-ARM Banner](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge)](https://ai-arm.github.io)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge)](https://gtamilselvan07.github.io/AI-ARM/)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Beta-amber?style=for-the-badge)](#)
 
@@ -127,7 +127,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📬 Contact
 
-- **Website**: [ai-arm.com](https://ai-arm.github.io)
+- **Website**: [ai-arm.com](https://gtamilselvan07.github.io/AI-ARM/)
 - **Email**: founder@ai-arm.com
 - **Twitter**: [@ai_arm](https://twitter.com/ai_arm)
 
